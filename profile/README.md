@@ -39,13 +39,15 @@ With its interoperable digital infrastructure we aim to support quality maternal
     - [Data Pipeline](https://github.com/PharmAccess/data-pipelines/tree/main/pipelines/flows/hdc)
     - [Anonymized data](https://github.com/PharmAccess/hdc-furahi)
 
-   *Semantic Interoperability:*
+   *Syntactic Interoperability:*
     - [FHIR profile](https://github.com/PharmAccess/MamaToTo-FHIR-IG)
-    - [FHIR questionnaire](https://github.com/PharmAccess/mamatoto/tree/main)
     - [Generic Mapping Tool](https://github.com/PharmAccess/FHIRPathMappingLanguage)
+      
  - Journey-Based Analytics Dashboard
     - [Metrics](https://github.com/PharmAccess/open-mnch-dbt-analytics)
     - [Shiny App](https://github.com/PharmAccess/hdc-inspire-clinics-kisumu-app)
+  - Digital Enrolment via WhatsApp
+    - [FHIR questionnaire](https://github.com/PharmAccess/mamatoto/tree/main)
   
 We welcome collaboration! Please review our [Connected Care Publication](https://pharmaccess.github.io/momcare-valuepoints-documentation/) to learn how you can contribute to our open-source projects, whether through code, documentation, or implementation feedback.
 
