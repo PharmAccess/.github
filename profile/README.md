@@ -1,4 +1,4 @@
-![](/pharmaccess_logo_rgb-main-logo-blue.jpg)
+![](./pharmaccess_logo_rgb-main-logo-blue.jpg)
 
 # PharmAccess Foundation GitHub
 
